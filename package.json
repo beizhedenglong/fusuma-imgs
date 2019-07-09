@@ -1,0 +1,12 @@
+{
+  "name": "fusuma-imgs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "fusuma start"
+  },
+  "devDependencies": {
+    "fusuma": "^1.11.0"
+  }
+}
